@@ -123,7 +123,9 @@ Creamos entornos colaborativos y abiertos. Compartimos lo que hacemos y cómo lo
 <br />
 <div align="center" style="background-color: #353535; padding: 20px; border-radius: 10px;">
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=JesusFuentesGalindo&hide_border=true&ring=030137&fire=030137&currStreakLabel=FFFFFF&currStreakNum=030137&sideLabels=FFFFFF&sideNums=030137&dates=ffffff&background=353535" alt="GitHub Streak" width="80%" />
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=JesusFuentesGalindo&hide_border=true&ring=030137&fire=030137&currStreakLabel=FFFFFF&currStreakNum=030137&sideLabels=FFFFFF&sideNums=030137&dates=ffffff&background=353535)
+
 </div>
 
 ![Metrics](https://github.com/JesusFuentesGalindo/github-metrics/blob/main/github-metrics.svg)
