@@ -34,7 +34,7 @@
 <summary>Insignias</summary>
 </details>
 
-# ¡Bienvenido! a (JFG) {AAA_Software}
+# ¡Bienvenid@! a (JFG) {AAA_Software}
 
 Mi nombre es José de Jesús Fuentes Galindo.
 
