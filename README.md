@@ -42,7 +42,7 @@
 
 </details>
 
-# ¡Bienvenido! a (JFG) {AAA_Software}
+# ¡Bienvenid@! a (JFG) {AAA_Software}
 
 Mi nombre es José de Jesús Fuentes Galindo.
 
@@ -53,7 +53,7 @@ Mi enfoque combina el análisis de sistemas, el desarrollo de soluciones escalab
 
 **📫 Contacto:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jesús%20Fuentes%20Galindo-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusfuentesgalindo/)
-[![Gmail](https://img.shields.io/badge/Gmail-Jesús%20Fuentes%20Galindo-0e76a8?style=flat&logo=gmail&logoColor=white)](mailto:jesusfuentesgalindo@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-Jesús%20Fuentes%20Galindo-0e76a8?style=flat&logoColor=white)](mailto:jesusfuentesgalindo@outlook.com)
 
 ---
 
