@@ -29,16 +29,24 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-030137?style=flat&logo=postgresql)
 ![Debian](https://img.shields.io/badge/Debian-030137?style=flat&logo=debian)
 ![Web Semántica](https://img.shields.io/badge/Web%20Sem%C3%A1ntica-030137?style=flat&logo=semanticweb)
+![Python 3](https://img.shields.io/badge/Python%203-030137?style=flat&logo=python)
 
 <details>
 <summary>Insignias</summary>
+
+| <p align="center">[Python Essentials 1][PE1]</p>                                                |
+| ----------------------------------------------------------------------------------------------- |
+| <p align="center"><img src="img/badges/python-essentials-1.1.png" width="100" height="100"></p> |
+
+[PE1]: https://www.credly.com/badges/24095cba-4e29-43d6-97d7-700fac50ae5a/public_url 'Python Essentials 1'
+
 </details>
 
 # ¡Bienvenido! a (JFG) {AAA_Software}
 
 Mi nombre es José de Jesús Fuentes Galindo.
 
-Soy ***Desarrollador Web Full Stack*** con experiencia en el diseño e implementación de aplicaciones orientadas a la automatización de procesos administrativos y al procesamiento estratégico de información.  
+Soy **_Desarrollador Web Full Stack_** con experiencia en el diseño e implementación de aplicaciones orientadas a la automatización de procesos administrativos y al procesamiento estratégico de información.  
 Mi enfoque combina el análisis de sistemas, el desarrollo de soluciones escalables y la documentación estructurada de procesos, contribuyendo a mejorar la eficiencia operativa y la toma de decisiones.
 
 <br />
@@ -65,35 +73,45 @@ Consolidar (JFG) {AAA_Software} como un referente en el desarrollo de software c
 4. **Crear soluciones con impacto real y medible**, especialmente en áreas sociales clave como la alfabetización estratégica, la participación ciudadana y la educación digital.
 
 ---
+
 ## 🧩 Principios y Filosofía
 
 En (JFG) {AAA_Software}, desarrollamos software con propósito. Nuestro compromiso es combinar excelencia técnica con impacto social, guiándonos por principios que aseguren que cada solución tenga valor real, ético y sostenible para la sociedad:
 
 ### 🧠 Ética tecnológica
+
 Cada decisión técnica conlleva una responsabilidad humana. Aplicamos principios éticos en el diseño, implementación y mantenimiento de nuestras soluciones, priorizando la privacidad, la transparencia y el respeto por las personas.
 
 ### 📚 Alfabetización estratégica
+
 Creemos que el conocimiento empodera. Promovemos la alfabetización como un proceso continuo y multidisciplinario, que incluye desde habilidades digitales hasta la comprensión del entorno legal, económico, político y tecnológico. Nuestro software busca habilitar ciudadanías más informadas, críticas y activas.
 
 ### 🌍 Valor social como eje de diseño
+
 Desarrollamos tecnología que responde a necesidades reales, no solo a tendencias del mercado. Buscamos generar impacto positivo en comunidades, organizaciones y personas, contribuyendo a reducir brechas de información, acceso y participación.
 
 ### 🌐 Acceso universal
+
 Diseñamos con un enfoque inclusivo, accesible desde cualquier dispositivo y útil para todo tipo de usuario, independientemente de sus condiciones técnicas, sociales o culturales. La accesibilidad no es opcional: es parte integral de la calidad.
 
 ### 🛡️ Soberanía tecnológica
+
 Impulsamos el desarrollo autónomo y consciente de tecnología, favoreciendo el uso de software libre, estándares abiertos y control ético sobre los datos. Fomentamos ecosistemas locales sostenibles y resilientes.
 
 ### 🫱 Diseño centrado en la dignidad
+
 Más allá de la experiencia del usuario, diseñamos considerando el contexto social, emocional y cultural de las personas. La tecnología no debe vulnerar, invisibilizar ni excluir.
 
 ### 🔁 Automatización con criterio
+
 Automatizamos procesos para liberar el potencial humano, no para sustituirlo irresponsablemente. Aplicamos automatización donde aporta eficiencia sin comprometer la integridad de las decisiones o relaciones humanas.
 
 ### 🔄 Iteración con propósito
+
 Adoptamos prácticas ágiles no solo por productividad, sino para asegurar una mejora continua basada en el feedback real de las personas a quienes servimos. Escuchar, aprender y adaptar es parte de nuestro ADN.
 
 ### 🤝 Transparencia y confianza
+
 Creamos entornos colaborativos y abiertos. Compartimos lo que hacemos y cómo lo hacemos, documentamos con claridad y fomentamos el diálogo con usuarios, aliados y comunidades técnicas.
 
 ---
